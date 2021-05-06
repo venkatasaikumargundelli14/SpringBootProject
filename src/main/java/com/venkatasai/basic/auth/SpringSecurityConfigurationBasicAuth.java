@@ -1,4 +1,4 @@
-package com.venkatasai.restfulwebservices.basic.auth;
+package com.venkatasai.basic.auth;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
